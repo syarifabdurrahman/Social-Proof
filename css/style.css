@@ -6,15 +6,15 @@ body{
     background-image: url(../images/bg-pattern-top-desktop.svg), url(../images/bg-pattern-bottom-desktop.svg);
     background-repeat: no-repeat;
     align-items:right;
-    padding: 5% 10% 3%
+    padding: 4%;
 }
 
 /* Top */
 
 .title{
     text-align: left;
-    font-size: 3.5rem;
-    font-weight: bold;
+    font-size: 3.2rem;
+    font-weight: 900;
     color: hsl(300, 43%, 22%);
 }
 
@@ -40,7 +40,7 @@ body{
 
 .rating{
     text-align: left;
-    margin: 10% 0;
+    margin: 0;
     font-weight: 900;
     color: hsl(300, 43%, 22%);
 }
@@ -79,21 +79,21 @@ body{
 }
 
 .card-1{
-    margin-top: 10%;
+    margin-top: 1%;
      margin-left: 0;
      margin-right: 0;
     padding: 3%;
 }
 
 .card-2{
-    margin-top: 20%;
+    margin-top: 6%;
      margin-left: 0;
      margin-right: 0;
     padding: 3%;
 }
 
 .card-3{
-    margin-top: 30%;
+    margin-top: 11%;
      margin-left: 0;
      margin-right: 0;
     padding: 3%;
