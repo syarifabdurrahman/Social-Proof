@@ -5,7 +5,8 @@ body{
     font-weight: 500;
     background-image: url(../images/bg-pattern-top-desktop.svg), url(../images/bg-pattern-bottom-desktop.svg);
     background-repeat: no-repeat;
-    padding: 3% 0;
+    align-items:right;
+    padding: 5% 10% 3%
 }
 
 /* Top */
@@ -110,6 +111,11 @@ body{
 
 .user-img{
     border-radius: 50%;
+}
+
+.name{
+    margin-left: 3%;
+    display: inline-block;
 }
 
 .info-title{
