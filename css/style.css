@@ -43,7 +43,7 @@ body{
 .rating{
     text-align: left;
     margin: 0;
-    font-weight: 900;
+    font-weight: 500;
     color: hsl(300, 43%, 22%);
 }
 
@@ -107,7 +107,7 @@ body{
 
 .info-user{
     font-size: 10px;
-    font-weight: 900;
+    font-weight: 500;
     color: hsl(333, 80%, 67%);
 }
 
